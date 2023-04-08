@@ -12,9 +12,9 @@ This is a simple currency converter application built using Python's tkinter lib
 5. Contributing
 6. Credits
 
-#################################################################################################
 
-Features:
+
+# Features:
 
 1. Easy to use GUI.
 2. Supports a wide range of currencies.
@@ -24,9 +24,7 @@ Features:
 6. tkinter
 7. requests
 
-#################################################################################################
-
-Installation:
+# Installation:
 
 1. Clone the repository to your local machine using the following command:
 
@@ -34,10 +32,8 @@ Installation:
   
 2. Install the required dependencies using the following command:
       pip install -r requirements.txt
-  
-#################################################################################################
-  
-Usage:
+      
+# Usage:
   
 Open a terminal or command prompt and navigate to the project directory.
 
@@ -53,10 +49,8 @@ python currency_converter.py
 4. Click the "Convert" button to see the converted amount.
 
 5. To reset the application, click the "Reset" button.
-
- ################################################################################################ 
-      
-Contributing:
+    
+# Contributing:
   
 If you'd like to contribute to this project, please follow these steps:
 
@@ -66,9 +60,9 @@ If you'd like to contribute to this project, please follow these steps:
 4. Test your changes thoroughly.
 5. Create a pull request with a description of your changes.
   
-##################################################################################################  
+
       
-Credits:
+# Credits:
   
 This application was built by Abdul Raffay. The currency conversion rates are fetched using the openexchangerates.org API.
  
