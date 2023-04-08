@@ -1,4 +1,4 @@
-# CurrencyConverter
+
 # Currency-Converter by Abdul Raffay
 Currency Converter
 This is a simple currency converter application built using Python's tkinter library and the openexchangerates.org API. Users can enter an amount to convert, select the currency to convert from and the currency to convert to, and the application will display the converted amount.
